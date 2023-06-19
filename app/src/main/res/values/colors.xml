@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#262626</color>
+    <color name="primary_dark">#262626</color>
+    <color name="primary_light">#262626</color>
+    <color name="accent">#2f3996</color>
+    <color name="bg">#58554e</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="primary_400">#5C6BC0</color>
+    <color name="screen_bg">#f2f2f2</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="text_white_grey">#FAFAFA</color>
+    <color name="cashback_textcolor">#FF9800</color>
+    <color name="horizontal_line_color">#dedede</color>
+    <color name="blue">#1ea0d7</color>
+    <color name="bll">#1B8D78</color>
+    <color name="button_text_color">#ff919191</color>
+    <color name="btn_view_light_pressed">#40000000</color>
+
+    <!--categories color -->
+    <color name="category_color_one">#48b5b3</color>
+    <color name="category_color_two">#f79225</color>
+    <color name="category_color_three">#1ea0d7</color>
+    <color name="category_color_four">#6a8214</color>
+    <color name="category_color_five">#c0b34a</color>
+    <color name="category_color_six">#8f2f0d</color>
+    <color name="category_color_seven">#ba5fc8</color>
+    <color name="category_color_eight">#c54f99</color>
+    <color name="category_color_nine">#74b3b4</color>
+    <color name="category_color_ten">#444441</color>
+    <color name="default_card_bg">#FFFFFF</color>
+    <color name="divider_light">#dddddd</color>
+
+
+    <!--crop imageview color-->
+    <color name="base">#FFFFFB</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="text">#1C1C1C</color>
+    <color name="handle">#86C166</color>
+    <color name="frame">#86C166</color>
+    <color name="guide">#AA86C166</color>
+    <color name="menu_bg">#FFFFFB</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000</color>
+    <color name="red">#FF0000</color>
+    <color name="gallery_header_color">#ffec4f4f</color>
+    <color name="view_flipper_bg_color">#ff535353</color>
+    <color name="footer_button_color_pressed">#dad7d7</color>
+    <color name="mirror_button_color">#b6b3b3</color>
+    <color name="button_gray">#f9e6e6</color>
+    <color name="lib_header_bg">#ff283240</color>
+    <color name="lib_footer_button_color_pressed">#ffdf5759</color>
+    <color name="gallery_count_color">#ff13cd61</color>
+    <color name="collage_tool_background_color">#ff535353</color>
+
+    <color name="gallery_ok_button_normal">#ffef695a</color>
+    <color name="gallery_ok_button_pressed">#ffed7c70</color>
+
+    <color name="collage_pink">#ff6f84</color>
+    <color name="collage_pink_pressed">#d24666</color>
+
+    <color name="collage_orange">#e15f36</color>
+    <color name="collage_orange_pressed">#F3501D</color>
+
+    <color name="collage_green">#52be57</color>
+    <color name="collage_green_pressed">#429F46</color>
+
+    <color name="collage_yellow">#ee9f3b</color>
+    <color name="collage_yellow_pressed">#FF9F24</color>
+
+    <color name="collage_violate">#be3ad6</color>
+    <color name="collage_violate_pressed">#9B27B0</color>
+
+    <color name="collage_cyan">#4497e0</color>
+    <color name="collage_cyan_pressed">#1D87E4</color>
+
+
+
+
+
+    <color name="cardview_dark_background">#ff424242</color>
+    <color name="cardview_light_background">#ffffffff</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+
+    <color name="collage_blue_pressed">#2387a5</color>
+    <color name="collage_footer_button_color_normal">#ffffff</color>
+
+
+    <color name="context_bg_color_normal">#cfd8dc</color>
+    <color name="context_bg_color_pressed">#eceff1</color>
+    <color name="context_menu_button_text_color">#000000</color>
+    <color name="design_bottom_navigation_shadow_color">#14000000</color>
+
+    <color name="dialogbg">#80000000</color>
+
+
+
+    <color name="lib_adjustment_background_color">#ff252324</color>
+    <color name="lib_adjustment_background_pressed_color">#afae8b</color>
+    <color name="lib_adjustment_text_color">#ffffffff</color>
+    <color name="lib_footer_button_color_normal">#ffffff</color>
+
+    <color name="lib_footer_second_bg">#ffffff</color>
+
+    <color name="lib_horizontal_background_color">#00000000</color>
+    <color name="lib_main_activity_color">#ff242a33</color>
+    <color name="list_item_pressed">#ffeeeeee</color>
+    <color name="list_view_bg">#fff7f7f7</color>
+    <color name="pip_footer_button_color_normal">#ffffff</color>
+    <color name="pip_footer_button_color_pressed1">#cfd8dc</color>
+    <color name="place_autocomplete_prediction_primary_text">#212121</color>
+    <color name="place_autocomplete_prediction_primary_text_highlight">#757575</color>
+    <color name="place_autocomplete_prediction_secondary_text">#757575</color>
+    <color name="place_autocomplete_search_hint">#bdbdbd</color>
+    <color name="place_autocomplete_search_text">#212121</color>
+
+
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+
+    <color name="black26">#262626</color>
+
+
+</resources>
+

@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E5EAFF">
+
+    <LinearLayout
+        android:id="@+id/linearMirror"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:gravity="center"
+        android:background="@color/background_white"
+        android:layout_centerInParent="true"
+        android:padding="@dimen/_24sdp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/txtMirror"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/menu_mirror"
+            android:textColor="@color/black26"
+            android:textSize="@dimen/_18sdp" />
+    </LinearLayout>
+
+</RelativeLayout>
